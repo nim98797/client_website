@@ -1,0 +1,133 @@
+.group-3,
+.group-3 * {
+  box-sizing: border-box;
+}
+.group-3 {
+  height: 1024px;
+  position: relative;
+}
+.landing-page {
+  background: #008080;
+  padding: 27px 32px 27px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 230px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+  width: 208px;
+  height: 55px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 230px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 740px;
+  height: 35px;
+  position: static;
+}
+.home-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 207px;
+  height: 33px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 338px;
+  top: 2px;
+  width: 131px;
+  height: 28px;
+}
+.about-span {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+}
+.about-span2 {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 634px;
+  top: 1px;
+}
+.let-s-create-a-website-design {
+  color: #fffafa;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 187px;
+  top: 357px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #fffdfd;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 304px;
+  top: 460px;
+  width: 832px;
+  height: 156px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 601px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 651px;
+  top: 616px;
+}

@@ -1,0 +1,116 @@
+.group-1,
+.group-1 * {
+  box-sizing: border-box;
+}
+.group-1 {
+  height: 1024px;
+  position: relative;
+}
+.landing-page {
+  background: #008080;
+  padding: 27px 32px 27px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 230px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+  width: 208px;
+  height: 55px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 230px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 782px;
+  height: 38px;
+  position: static;
+}
+.home-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 115px;
+  height: 38px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 345px;
+  top: 0px;
+  width: 131px;
+  height: 28px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 706px;
+  top: 0px;
+}
+.bmgt-407-information-systems-projects {
+  color: #fffafa;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  position: absolute;
+  left: 81px;
+  top: 180px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-technology-and-consulting {
+  color: #fffdfd;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 81px;
+  top: 297px;
+  width: 1085px;
+  height: 248px;
+}
+.semester-details-spring-2025-professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 81px;
+  top: 490px;
+}
